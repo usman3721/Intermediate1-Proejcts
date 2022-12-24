@@ -1,1 +1,1 @@
-# Intermediated-Proejcts
+# Intermediate-Proejcts
