@@ -47,7 +47,7 @@ from twilio.rest import Client
 import os
 
 e_mail="abuzaydin007@gmail.com"
-password="yzgnzeiarkhkixtu"
+password=**********
 
 
 current=dt.datetime.now()
